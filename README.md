@@ -9,6 +9,7 @@ I am a Full stack developer.
 - HTML
 - CSS
 - Javascript
+- Vue
 - Angular
 - Git
 - Java
