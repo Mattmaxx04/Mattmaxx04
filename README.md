@@ -6,16 +6,10 @@
 I am a Full stack developer.
 
 ## 💪🏼 Skills
-- HTML
-- CSS
-- Javascript
-- Vue
-- Angular
-- Git
-- Java
-- Spring boot
-- MySql
-- and anything I can get my hands on.
+- Front End(HTML, CSS, Javascript, Vue, Angular)
+- Back end(Java, Spring boot)
+- DDBB(MySql, SQL, Firebase)
+- Data Science(Python, Panda, Seaborn, Deepnote, Colab)
 
 ## 👀 You can find me at:
 - Linkedin: [matíasquiroga](https://www.linkedin.com/in/matíasquiroga/)
