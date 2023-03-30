@@ -3,12 +3,13 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Mattmaxx04&count_private=true&show_icons=true&theme=radical)
 
-I am a Full stack developer.
+I am a Full stack developer, system analyst.
 
 ## 💪🏼 Skills
 - Front End(HTML, CSS, Javascript, Vue, Angular)
 - Back end(Java, Spring boot)
 - DDBB(MySql, SQL, Firebase)
+- Tester QA
 - Data Science(Python, Panda, Seaborn, Deepnote, Colab)
 
 ## 👀 You can find me at:
