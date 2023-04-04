@@ -10,7 +10,7 @@ I am a Full stack developer, system analyst.
 - Back end(Java, Spring boot)
 - DDBB(MySql, SQL, Firebase)
 - Tester QA
-- Data Science(Python, Panda, Seaborn, Deepnote, Colab)
+- Data Science(Python( Panda, Seaborn, Matplotlib, NumPy), Deepnote, Google Data Studio, Colab)
 
 ## 👀 You can find me at:
 - Linkedin: [matíasquiroga](https://www.linkedin.com/in/matíasquiroga/)
