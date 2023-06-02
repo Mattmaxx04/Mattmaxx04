@@ -13,7 +13,7 @@ I am a Full stack developer, system analyst.
 - Data Science(Python( Panda, Seaborn, Matplotlib, NumPy), Deepnote, Google Data Studio, Colab)
 
 ## 👀 You can find me at:
-- Linkedin: [matíasquiroga](https://www.linkedin.com/in/matíasquiroga/)
+- Linkedin: [matíasquiroga](https://www.linkedin.com/in/matiasmquiroga/)
 
 
 
